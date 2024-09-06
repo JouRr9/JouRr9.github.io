@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/chim/static/js/main.50dddf61.js",
-    "index.html": "/chim/index.html",
-    "main.50dddf61.js.map": "/chim/static/js/main.50dddf61.js.map"
+    "main.js": "/static/js/main.b732eca3.js",
+    "index.html": "/index.html",
+    "main.b732eca3.js.map": "/static/js/main.b732eca3.js.map"
   },
   "entrypoints": [
-    "static/js/main.50dddf61.js"
+    "static/js/main.b732eca3.js"
   ]
 }
